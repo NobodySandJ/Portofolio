@@ -1,0 +1,47 @@
+{
+  "profil": {
+    "nama": "Mochammad Ferdy Nurdianto",
+    "jabatan": "Siswa RPL & Pegiat Teknologi",
+    "deskripsi": "Saat ini saya bersekolah di SMKN 1 Dlanggu jurusan RPL. Saya suka ngoding, desain, dan hal-hal yang berhubungan dengan IT. Saya selalu antusias untuk belajar hal baru dan saat ini masih dalam tahap junior untuk menjadi seorang profesional.",
+    "fotoProfil": "foto/f-nae1.jpg",
+    "linkGithub": "https://github.com/NobodySandJ",
+    "linkLinkedin": "#",
+    "linkInstagram": "#"
+  },
+  "sertifikat": [
+    {
+      "nama": "Contoh: Sertifikasi Web Dasar",
+      "penerbit": "Lembaga Sertifikasi A",
+      "gambar": "foto/Nae2.jpg"
+    },
+    {
+      "nama": "Contoh: Workshop UI/UX",
+      "penerbit": "Platform Edukasi B",
+      "gambar": "foto/Yuna2.jpg"
+    }
+  ],
+  "proyekPribadi": [
+    {
+      "nama": "Portofolio v1",
+      "deskripsi": "Website ini adalah proyek pribadi saya untuk belajar JavaScript, DOM manipulation, dan integrasi API sederhana.",
+      "link": "#"
+    },
+    {
+      "nama": "Aplikasi Catatan",
+      "deskripsi": "Aplikasi web sederhana yang dibuat untuk latihan fundamental frontend.",
+      "link": "#"
+    }
+  ],
+  "proyekPesanan": [
+    {
+      "nama": "Website Klien A",
+      "deskripsi": "Membuat website company profile modern dan responsif untuk Klien A.",
+      "link": "#"
+    },
+    {
+      "nama": "Landing Page Produk B",
+      "deskripsi": "Mendesain dan mengembangkan landing page untuk promosi produk Klien B.",
+      "link": "#"
+    }
+  ]
+}
